@@ -1,4 +1,4 @@
-# require_playground
+# require_playconsole.log("module1 is working");ground
 
 1) 
 Pls, create next deps:
@@ -19,5 +19,5 @@ Call modules in s special way to get on console next messages:
  module2 is working
  module4 is working
  module6 is working
- module6 is working
+ module5 is working
 </pre>
